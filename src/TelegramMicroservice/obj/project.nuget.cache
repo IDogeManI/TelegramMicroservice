@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "sGhG4MNfx0IpO9atle6UiyAZnRG+8vg3/zwSGNl2O+67lVe88xMZ2wb8uEODHcSVzBRArYPrhtZeNpDQzcOn7g==",
+  "success": true,
+  "projectFilePath": "D:\\DeepSolutions\\TelegramMicroservice\\src\\TelegramMicroservice\\TelegramMicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\wtelegramclient\\2.2.1\\wtelegramclient.2.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
